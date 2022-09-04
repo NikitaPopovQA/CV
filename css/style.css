@@ -72,7 +72,7 @@ background: rgba(0, 0, 0, 0.4);
       border-color: transparent;
     }
     50% {
-      border-color: #cc9a98;
+      border-color:#495058;
     }
   }
 
@@ -161,7 +161,7 @@ background: rgba(0, 0, 0, 0.4);
   opacity: 0;
   width: 100%;
   height: 3px;
-  background-color: #cc9a98;
+  background-color: #495058;
   position: absolute;
   top: 100%;
   left: 0;
@@ -170,7 +170,7 @@ background: rgba(0, 0, 0, 0.4);
 }
 
 .nav__link.nav__link:hover {
-  color: #cc9a98;
+  color: #72F2F2;
 }
 
 .nav__link:hover:after {
@@ -198,7 +198,7 @@ margin-left: 50%;
 }
 
 .intro .scroll_down i{
-  color: #cc9a98;
+  color: #495058;
   width: 25px;
   display: block;
 }
