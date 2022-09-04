@@ -5,7 +5,7 @@ body {
 
 h3 {
     text-align: center;
-    color: #505d68;
+    color: #42464c;
     font-weight: bold;
     font-size: 30px;
     padding: 20px 0;
@@ -39,7 +39,7 @@ background: rgba(0, 0, 0, 0.4);
 .intro__suptitle {
   margin: 5px 0 0;
   font-size: 60px;
-  color: #e4d0cf;
+  color: #72F2F2;
   font-family: 'Kaushan Script', cursive;
   }
 
@@ -80,7 +80,7 @@ background: rgba(0, 0, 0, 0.4);
   font-family: 'M PLUS Code Latin', sans-serif;
   font-weight: bold;
   font-size: 20px;
-  color: #e4d0cf;
+  color: #72F2F2;
   text-align: center;
   margin-bottom: 30px;
 }
@@ -97,8 +97,8 @@ background: rgba(0, 0, 0, 0.4);
 }
 
 .intro .container a:hover {
-  background-color: #f3e9e8;
-  border: solid 1px #f3e9e8;
+  background-color: #72F2F2;
+  border: solid 1px #72F2F2;
   transition: 0.1s;
 }
 
@@ -110,7 +110,7 @@ background: rgba(0, 0, 0, 0.4);
 }
 
 .intro__button:hover {
-  color: #cc9a98;
+  color: #495058;
   transition: 0.1s;
 }
 
