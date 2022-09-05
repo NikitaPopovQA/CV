@@ -138,6 +138,10 @@ background: rgba(0, 0, 0, 0.4);
   font-family: 'M PLUS Code Latin', sans-serif;
 }
 
+.logo_url {
+  text-decoration: none; 
+}
+
 .nav{
   text-transform: uppercase;
   font-size: 20px;
