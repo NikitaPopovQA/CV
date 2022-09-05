@@ -264,7 +264,7 @@ margin-left: 50%;
   width: 100%;
   margin: 0 auto;
   padding-bottom: 80px;
-  border-top: 10px solid #e4d0cf;
+  border-top: 10px solid #495058;
 }
 
 .about .container .d-flex {
@@ -275,7 +275,7 @@ margin-left: 50%;
 .about .container .d-flex img{
 display: block;
 max-width: 385px;
-border: 3px dashed #cc9a98;
+border: 3px solid #495058;
 }
 
 .about .container .item {
@@ -309,34 +309,34 @@ text-align: left;
 }
 
 .about .container .item a:hover {
-  background-color: #f3e9e8;
-  border: solid 1px #f3e9e8;
+  background-color: #495058;
+  border: solid 1px #495058;
   transition: 0.1s;
 }
 
 .about__button {
   font-family: 'Kaushan Script', cursive;
-  color: #e4d0cf;
+  color: #495058;
   font-size: 30px;
   padding: 10px;
 }
 
 .about__button:hover {
-  color: #cc9a98;
+  color: #72F2F2;
   transition: 0.1s;
 }
 
 @media (max-width: 415px) {
 
   .about {
-    border-top: 5px solid #e4d0cf;
+    border-top: 5px solid #495058;
     padding-bottom: 10px;
   }
 
   .about .container .d-flex img{
     width: 200px;
     height: 200px;
-    border: 1px dashed #cc9a98;
+
   }
   .about .container .item {
     padding-left: 5px;
@@ -360,7 +360,7 @@ text-align: left;
 }
 
 .skills {
-  border-top: 10px solid #e4d0cf;
+  border-top: 10px solid #495058;
   padding-bottom: 80px;
 }
 
@@ -386,7 +386,7 @@ text-align: left;
 }
 
 .skills__percent .skill-item .progress__inner__shadow .progress__bar {
-background-color: #42464c;
+background-color: #07575b;
 height: 6px;
 left: 7px;
 top: 7px;
@@ -400,7 +400,7 @@ position: absolute;
   top: 0;
   font-size: 15px;
   font-weight: 500;
-  color: #cc9a98;
+  color:#003b46;
   margin-top: -20px;
   font-family: 'Kaushan Script', cursive;
 }
@@ -415,14 +415,14 @@ position: absolute;
  }
 
  .skills__text ul li::before {
-  color: #cc9a98;
+  color: #003b46;
   content: "֍";
   padding-right: 50px;
  }
 
  @media (max-width: 415px) {
   .skills {
-    border-top: 5px solid #e4d0cf;
+    border-top: 5px solid #495058;
     padding-bottom: 10px;
 }
 .skills__percent .skill-item {
@@ -435,7 +435,7 @@ position: absolute;
 
  .experince {
    padding-bottom: 80px;
-   border-top: 10px solid #e4d0cf;
+   border-top: 10px solid #495058;
  }
 
  .experince .timeline {
@@ -450,7 +450,7 @@ position: relative;
    height: 100%;
    left: 50%;
    top: 0;
-   background-color: #42464c;
+   background-color: #495058;
    position: absolute;
  }
 
@@ -484,14 +484,14 @@ line-height: 40px;
 border: 1px solid #42464c;
 border-radius: 50%;
 font-size: 16px;
-color: #cc9a98;
+color: #495058;
 position: absolute;
 top: 18px;
  }
 
  .experince .timeline .timeline-item-inner .icon:hover{
-   background-color: #cc9a98;
-   color: #fff;
+   background-color: #495058;
+   color: #72F2F2;
  }
 
  .experince .timeline .timeline-item:nth-child(odd) .icon {
@@ -560,18 +560,18 @@ display: flex;
 }
 
 .footer-distributed .container .soc a i{
-  color: #6c7877;
+  color: #72F2F2;
   font-size: 20px;
 padding: 8px;
 }
 
 .footer-distributed .container .soc a:hover{
-  background-color: #cc9a98;
-  border: solid 1px #cc9a98;
+  background-color: #72F2F2;
+  border: solid 1px #72F2F2;
 }
 
 .footer-distributed .container .soc a:hover i{
-  color: #ffffff;
+  color: #495058;
 
 }
 
@@ -593,7 +593,7 @@ padding: 8px;
 }
  
 .footer-distributed h4 span{
- color:  #cc9a98;
+ color:  #72F2F2;
  font-family: 'Kaushan Script', cursive;
 }
  
@@ -619,7 +619,7 @@ padding: 8px;
 }
 
 .footer-distributed .footer-links a:hover {
-  color: #e4d0cf;
+  color: #72F2F2;
 }
  
 .footer-distributed .footer-company-name{
@@ -635,8 +635,8 @@ padding: 8px;
 }
  
 .footer-distributed .footer-center i{
- background-color:  #e4d0cf;
- color: #42464c;
+ background-color:  #72F2F2;
+ color: #495058;
  font-size: 15px;
  width: 30px;
  height: 30px;
@@ -648,8 +648,8 @@ padding: 8px;
 }
 
 .footer-distributed .footer-center i:hover{
-  background-color: #cc9a98;
-  color: #fff;
+  background-color: #495058;
+  color: #72F2F2;
 }
  
 .footer-distributed .footer-center i.fa-envelope{
