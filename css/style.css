@@ -132,14 +132,11 @@ background: rgba(0, 0, 0, 0.4);
   align-items: center;
 }
 
-.header__logo {
+.logo_url {
+  text-decoration: none; 
   font-size: 30px;
   color: #fff;
   font-family: 'M PLUS Code Latin', sans-serif;
-}
-
-.logo_url {
-  text-decoration: none; 
 }
 
 .nav{
