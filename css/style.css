@@ -326,7 +326,7 @@ text-align: left;
   transition: 0.1s;
 }
 
-@media (max-width: 415px) {
+@media (max-width: 420px) {
 
   .about {
     border-top: 5px solid #495058;
